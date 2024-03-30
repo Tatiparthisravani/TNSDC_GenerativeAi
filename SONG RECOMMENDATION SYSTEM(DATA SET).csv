@@ -1,0 +1,16 @@
+song_name,artist,genre,mood,release_year,tempo,duration_seconds,danceability,energy,valence,instrumentalness
+Happy Song,Happy Artist,Pop,happy,2019,120,240,0.75,0.85,0.9,0.05
+Sad Song,Sad Artist,Ballad,sad,2018,80,280,0.4,0.3,0.2,0.1
+Chill Song,Chill Artist,Electronic,calm,2020,100,320,0.65,0.5,0.7,0.2
+Energetic Song,Energetic Artist,Rock,energetic,2017,150,200,0.85,0.9,0.8,0.05
+Love Song,Love Artist,R&B,romantic,2016,90,260,0.7,0.6,0.75,0.1
+Party Song,Party Band,Dance,energetic,2021,128,180,0.9,0.95,0.85,0.05
+Reflective Song,Reflective Artist,Indie,calm,2019,110,300,0.6,0.55,0.65,0.15
+Upbeat Song,Upbeat Band,Funk,happy,2020,118,240,0.8,0.85,0.8,0.1
+Melancholic Song,Melancholic Artist,Alternative,sad,2015,75,320,0.5,0.4,0.3,0.2
+Romantic Ballad,Romantic Artist,Pop,romantic,2018,85,270,0.75,0.7,0.8,0.1
+Motivational Anthem,Motivational Band,Pop,energetic,2019,130,210,0.85,0.9,0.85,0.05
+Dreamy Song,Dreamy Artist,Dream Pop,calm,2021,95,280,0.7,0.65,0.75,0.25
+Classic Rock Song,Classic Rock Band,Rock,nostalgic,1970,140,350,0.6,0.75,0.7,0.05
+Pop Punk Anthem,Punk Band,Pop Punk,energetic,2005,160,180,0.8,0.85,0.75,0.1
+Jazzy Tune,Jazzy Artist,Jazz,relaxed,2013,100,320,0.75,0.6,0.65,0.3
